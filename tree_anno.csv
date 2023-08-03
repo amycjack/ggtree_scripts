@@ -1,0 +1,21 @@
+id,species,island
+art_B82,D. artemisioides 1,GC
+art_B83,D. artemisioides 2,GC
+bour_563,D. bourgaeana 3,TEN
+bour_GH,D. bourgaeana 4,TEN
+bour_51v,D. bourgaeana 5,TEN
+lem_98a,D. bourgaeana 6,TEN
+lem_98b,D. bourgaeana 7,TEN
+gil_131a,D. gilva 8,LP
+gil_B163,D. gilva 9,LP
+gon_GHA,D. gonzalezii 10,TEN
+gon_B162,D. gonzalezii 11,TEN
+lem_B157,D. lemsii 12,TEN
+mil_GHA,D. millefolia 13,TEN
+mil_125a,D. millefolia 14,LP
+mil_128b,D. millefolia 15,LP
+mil_94v,D. millefolia 16,TEN
+pre_B120,D. preauxiana 17,GC
+pre_GHA,D. preauxiana 18,GC
+tan_C6,D. tanacetifolia 19,Outgroup
+dep_C26,D. depressa 20,Outgroup
